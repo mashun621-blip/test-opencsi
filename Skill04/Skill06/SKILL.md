@@ -1,5 +1,5 @@
 ---
-name: llm-wiki11106
+name: llm-wiki11106-github
 description: >
   111111Build, maintain, and query an autonomous wiki knowledge base inside an Obsidian vault.
   Trigger when the user wants to: set up a new wiki vault, ingest source documents into
