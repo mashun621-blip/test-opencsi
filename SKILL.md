@@ -1,5 +1,5 @@
 ---
-name: llm-wik0-github
+name: llm-wik0-github01
 description: >
   0Build, maintain, and query an autonomous wiki knowledge base inside an Obsidian vault.
   Trigger when the user wants to: set up a new wiki vault, ingest source documents into
